@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "themes": [
+    {
+      "id": "ayanokoji",
+      "name": "Ayanokoji",
+      "folder": "ayanokoji",
+      "seedColor": "0xFFFF9800",
+      "accentColor": "0xFFFF6D00",
+      "scaffoldColor": "0xFF0A0605",
+      "surfaceColor": "0xFF1A0E0C",
+      "onSurfaceColor": "0xFFFFEDE8",
+      "glassTintBase": "0xFFFF7043",
+      "glassSurfaceAlpha": 0.14,
+      "glassShadowAlpha": 0.32,
+      "logo": "logo.png",
+      "wallpaperGif": "wallpaper.gif",
+      "wallpaperPng": "wallpaper.png",
+      "preview": "preview.png"
+    }
+  ]
+}
