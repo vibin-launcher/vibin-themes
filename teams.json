@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "teams": [
     {
       "id": "idols",
@@ -18,11 +18,11 @@
       "category": "owner"
     },
     {
-      "id": "mrliodas",
-      "name": "MrLiodas Team",
-      "themeId": "mrliodas",
-      "logo": "mrliodas/logo.jpg",
-      "description": "Owned by MrLiodas. Golden vibes.",
+      "id": "skaysix",
+      "name": "Skaysix Team",
+      "themeId": "skaysix",
+      "logo": "skaysix/logo.jpg",
+      "description": "Owned by Skaysix. Golden vibes.",
       "category": "owner"
     }
   ]
