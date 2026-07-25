@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "teams": [
     {
       "id": "idols",
@@ -14,6 +14,13 @@
       "themeId": "hanata",
       "logo": "hanata/logo.png",
       "description": "Owned by Hanata. Purple vibes."
+    },
+    {
+      "id": "mrliodas",
+      "name": "MrLiodas Team",
+      "themeId": "mrliodas",
+      "logo": "mrliodas/logo.jpg",
+      "description": "Owned by MrLiodas. Golden vibes."
     }
   ]
 }

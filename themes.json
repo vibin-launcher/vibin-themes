@@ -34,6 +34,22 @@
       "wallpaperPng": "wallpaper.png",
       "wallpaperVideo": "wallpaper.mp4",
       "preview": "preview.png"
+    },
+    {
+      "id": "mrliodas",
+      "name": "MrLiodas",
+      "folder": "mrliodas",
+      "seedColor": "0xFFDC9600",
+      "accentColor": "0xFFFFB830",
+      "scaffoldColor": "0xFF0A0805",
+      "surfaceColor": "0xFF1A140C",
+      "onSurfaceColor": "0xFFFFF0D8",
+      "glassTintBase": "0xFFDC9600",
+      "glassSurfaceAlpha": 0.14,
+      "glassShadowAlpha": 0.32,
+      "logo": "logo.jpg",
+      "wallpaperVideo": "wallpaper.webm",
+      "preview": "preview.jpg"
     }
   ]
 }
