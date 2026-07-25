@@ -17,6 +17,23 @@
       "wallpaperGif": "wallpaper.gif",
       "wallpaperPng": "wallpaper.png",
       "preview": "preview.png"
+    },
+    {
+      "id": "hanata",
+      "name": "Hanata",
+      "folder": "hanata",
+      "seedColor": "0xFF7800FF",
+      "accentColor": "0xFF9D4DFF",
+      "scaffoldColor": "0xFF0A0518",
+      "surfaceColor": "0xFF14082D",
+      "onSurfaceColor": "0xFFE8D5FF",
+      "glassTintBase": "0xFF7800FF",
+      "glassSurfaceAlpha": 0.14,
+      "glassShadowAlpha": 0.32,
+      "logo": "logo.png",
+      "wallpaperPng": "wallpaper.png",
+      "wallpaperVideo": "wallpaper.mp4",
+      "preview": "preview.png"
     }
   ]
 }
