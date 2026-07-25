@@ -1,26 +1,29 @@
 {
-  "version": 2,
+  "version": 3,
   "teams": [
     {
       "id": "idols",
       "name": "Idols Team",
       "themeId": "default",
       "logo": "teams/idols/logo.png",
-      "description": "The original Idols experience."
+      "description": "The original Idols experience.",
+      "category": "default"
     },
     {
       "id": "hanata",
       "name": "Hanata Team",
       "themeId": "hanata",
       "logo": "hanata/logo.png",
-      "description": "Owned by Hanata. Purple vibes."
+      "description": "Owned by Hanata. Purple vibes.",
+      "category": "owner"
     },
     {
       "id": "mrliodas",
       "name": "MrLiodas Team",
       "themeId": "mrliodas",
       "logo": "mrliodas/logo.jpg",
-      "description": "Owned by MrLiodas. Golden vibes."
+      "description": "Owned by MrLiodas. Golden vibes.",
+      "category": "owner"
     }
   ]
 }
