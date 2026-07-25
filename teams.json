@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "teams": [
+    {
+      "id": "idols",
+      "name": "Idols Team",
+      "themeId": "default",
+      "logo": "teams/idols/logo.png",
+      "description": "The original Idols experience."
+    },
+    {
+      "id": "hanata",
+      "name": "Hanata Team",
+      "themeId": "hanata",
+      "logo": "hanata/logo.png",
+      "description": "Owned by Hanata. Purple vibes."
+    }
+  ]
+}
