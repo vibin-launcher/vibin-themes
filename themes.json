@@ -50,6 +50,22 @@
       "logo": "logo.jpg",
       "wallpaperVideo": "wallpaper.webm",
       "preview": "preview.jpg"
+    },
+    {
+      "id": "aero",
+      "name": "Aero",
+      "folder": "aero",
+      "seedColor": "0xFF3FA3FF",
+      "accentColor": "0xFF5BB3FF",
+      "scaffoldColor": "0xFF050D14",
+      "surfaceColor": "0xFF091826",
+      "onSurfaceColor": "0xFFD6ECFF",
+      "glassTintBase": "0xFF3FA3FF",
+      "glassSurfaceAlpha": 0.14,
+      "glassShadowAlpha": 0.32,
+      "logo": "logo.png",
+      "wallpaperVideo": "wallpaper.webm",
+      "preview": "preview.png"
     }
   ]
 }

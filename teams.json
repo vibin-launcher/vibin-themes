@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "teams": [
     {
       "id": "idols",
@@ -24,6 +24,14 @@
       "logo": "skaysix/logo.jpg",
       "description": "Owned by Skaysix. Golden vibes.",
       "category": "owner"
+    },
+    {
+      "id": "aero",
+      "name": "Aero Team",
+      "themeId": "aero",
+      "logo": "aero/logo.png",
+      "description": "Aero streamer team. Blue skies.",
+      "category": "streamer"
     }
   ]
 }
