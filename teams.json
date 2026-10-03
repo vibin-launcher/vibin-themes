@@ -1,12 +1,12 @@
 {
-  "version": 5,
+  "version": 6,
   "teams": [
     {
-      "id": "idols",
-      "name": "Idols Team",
+      "id": "vibin",
+      "name": "VIBIN Team",
       "themeId": "default",
-      "logo": "teams/idols/logo.png",
-      "description": "The original Idols experience.",
+      "logo": "teams/vibin/logo.png",
+      "description": "The original VIBIN experience.",
       "category": "default"
     },
     {

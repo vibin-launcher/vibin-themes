@@ -1,12 +1,13 @@
-# theme-idols
+# vibin-themes
 
-Repository containing theme assets for idols Link launcher.
+Repository containing theme assets for VIBIN Launcher.
 
 ## Structure
 
 ```
-theme-idols/
+vibin-themes/
 ├── themes.json          # Manifest listing all available themes
+├── teams.json           # Manifest listing selectable teams
 ├── ayanokoji/           # Theme folder (id = "ayanokoji")
 │   ├── logo.png         # Theme logo
 │   ├── wallpaper.gif    # Animated wallpaper (optional)
